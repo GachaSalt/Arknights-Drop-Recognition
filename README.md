@@ -22,6 +22,8 @@ ITEMS:
 ```
 ## Notebook
 + [Demo](./notebook/demo.ipynb)
++ [Jupyter Notebook Viewer](https://nbviewer.jupyter.org/github/GachaSalt/Arknights-Drop-Recognition/blob/master/notebook/demo.ipynb)
+
 
 ## TODO
 + Access to api of [Penguin-Stats](https://penguin-stats.io)
